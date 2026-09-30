@@ -1,0 +1,8 @@
+controllers:
+  users:
+    resource: web
+  categories:
+    resource: web
+  ads:
+    resource: web
+  

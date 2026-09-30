@@ -1,0 +1,27 @@
+created:
+    - app/Http/Controllers/usersController.php
+    - app/Http/Controllers/categoriesController.php
+    - app/Http/Controllers/adsController.php
+    - tests/Feature/Http/Controllers/usersControllerTest.php
+    - tests/Feature/Http/Controllers/categoriesControllerTest.php
+    - tests/Feature/Http/Controllers/adsControllerTest.php
+    - app/Http/Requests/userStoreRequest.php
+    - app/Http/Requests/userUpdateRequest.php
+    - app/Http/Requests/categoryStoreRequest.php
+    - app/Http/Requests/categoryUpdateRequest.php
+    - app/Http/Requests/adStoreRequest.php
+    - app/Http/Requests/adUpdateRequest.php
+    - resources/views/user/index.blade.php
+    - resources/views/user/create.blade.php
+    - resources/views/user/show.blade.php
+    - resources/views/user/edit.blade.php
+    - resources/views/category/index.blade.php
+    - resources/views/category/create.blade.php
+    - resources/views/category/show.blade.php
+    - resources/views/category/edit.blade.php
+    - resources/views/ad/index.blade.php
+    - resources/views/ad/create.blade.php
+    - resources/views/ad/show.blade.php
+    - resources/views/ad/edit.blade.php
+updated:
+    - routes/web.php
