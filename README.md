@@ -2,6 +2,8 @@
 
 A Laravel-based marketplace for browsing and managing classified ads, with separate customer and administrator areas.
 
+**Project administrator:** [Filip Vicentijevic (@filipvicentijevic99)](https://github.com/filipvicentijevic99)
+
 ## Features
 
 - Browse ads publicly and filter them by category.
@@ -9,11 +11,13 @@ A Laravel-based marketplace for browsing and managing classified ads, with separ
 - Administrators can manage customers, categories, and ads.
 - Admin dashboard with counts and recently added users and ads.
 
-## Tech Stack
+## Languages and Technologies
 
-- PHP and Laravel
-- MySQL
-- Vite, JavaScript, and CSS
+- **Languages:** PHP, JavaScript, CSS, SQL
+- **Templates:** Laravel Blade
+- **Frameworks and libraries:** Laravel 10, Alpine.js, Tailwind CSS
+- **Database:** MySQL
+- **Frontend tooling:** Vite and npm
 
 ## Requirements
 
